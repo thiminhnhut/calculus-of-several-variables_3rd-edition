@@ -36,7 +36,7 @@
 
 - Giả sử ta đổi chỗ hai vector bất kỳ trong tổng, ví dụ đổi chỗ $A_i$ và $A_{i+1}$, ta có:
 
-  $\ldots + A_i + A_{i + 1} + \ldots$ thành $\ldots + A_i + A_{i + 1} + \ldots$
+  $\ldots + A_i + A_{i + 1} + \ldots$ thành $\ldots + A_{i + 1} + A_i + \ldots$
 
   Do ($A_i + A_{i + 1} = A_{i + 1} + A_i$) nên tổng không thay đổi.
 
