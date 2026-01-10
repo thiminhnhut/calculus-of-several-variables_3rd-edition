@@ -34,9 +34,9 @@
 
 - Ta có tổng của 8 vector: $S = A_1 + A_2 + A_3 + A_4 + A_5 + A_6 + A_7 + A_8$ trong đó $(A_1, A_2, A_3, A_4, A_5, A_6, A_7, A_8)$ là hoán vị của $(A, B, C, D, E, F, G, H)$
 
-- Giả sử ta đổi chỗ hai vector bất kỳ trong tổng, ví dụ đổi chỗ $A_i$ và $A_j$, ta có:
+- Giả sử ta đổi chỗ hai vector bất kỳ trong tổng, ví dụ đổi chỗ $A_i$ và $A_{i+1}$, ta có:
 
-  $\ldots + A_i + A_{i + 1} + \ldots $ thành $\ldots + A_i + A_{i + 1} + \ldots$
+  $\ldots + A_i + A_{i + 1} + \ldots$ thành $\ldots + A_i + A_{i + 1} + \ldots$
 
   Do ($A_i + A_{i + 1} = A_{i + 1} + A_i$) nên tổng không thay đổi.
 
