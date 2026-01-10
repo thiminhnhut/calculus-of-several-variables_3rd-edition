@@ -93,16 +93,16 @@ $d = ||v|| = \sqrt{(\frac{6}{17})^2 + (\frac{6}{17})^2 + (\frac{-9}{17})^2} = \f
 
   $X . X - 2A . X + A . A = X . X - 2B . X + B . B$
 - Rút gọn, ta được:
-    $-2A . X + ||A|| = -2B . X + ||B||$
+    $-2A . X + ||A||^2 = -2B . X + ||B||^2$
 - Sắp xếp lại, ta có:
-    $2(B - A) . X = ||B|| - ||A||$
-    $(B - A) . X = \dfrac{1}{2}(||B|| - ||A||)$
+    $2(B - A) . X = ||B||^2 - ||A||^2$
+    $(B - A) . X = \dfrac{1}{2}(||B||^2 - ||A||^2)$
 
 ### Xác định N và c theo A và B
 
 - Ta có: $N = B - A$
 
-- Và: $c = \dfrac{1}{2}(||B|| - ||A||)$
+- Và: $c = \dfrac{1}{2}(||B||^2 - ||A||^2)$
 
 ### Giải thích N
 
