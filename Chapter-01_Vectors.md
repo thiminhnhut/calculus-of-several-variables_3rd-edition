@@ -121,11 +121,7 @@ Cho 2 điểm $A(x_1, y_1, z_1)$ và $B(x_2, y_2, z_2)$:
 ## Tích có hướng của hai vectơ (Vector product)
 
 - Cho 2 vectơ $\overrightarrow{A} = (a_1, a_2, a_3)$ và $\overrightarrow{B} = (b_1, b_2, b_3)$. Tích có hướng của hai vectơ được định nghĩa bởi công thức: 
-  $\overrightarrow{A} \times \overrightarrow{B} = \begin{vmatrix}
-  \hat{i} & \hat{j} & \hat{k} \\
-  a_1 & a_2 & a_3 \\
-  b_1 & b_2 & b_3
-  \end{vmatrix} = (a_2b_3 - a_3b_2, a_3b_1 - a_1b_3, a_1b_2 - a_2b_1)$
+  $\overrightarrow{A} \times \overrightarrow{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \\ a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \end{vmatrix} = (a_2b_3 - a_3b_2, a_3b_1 - a_1b_3, a_1b_2 - a_2b_1)$
 
 - Tính chất của tích có hướng:
 
