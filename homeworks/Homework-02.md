@@ -23,3 +23,42 @@ $d^2 = ||X - O||^2 = ||P + tA - O||^2 = ||P + tA||^2 = (P + tA) \cdot (P + tA) =
 $f'(t) = 2(P \cdot A) + 2t(A \cdot A) = 0 \Longrightarrow t = -\dfrac{-2(P \cdot A)}{2(A \cdot A)} = -\dfrac{P \cdot A}{A \cdot A}$
 
 - Vậy giá trị của $t$ để khoảng cách từ $O$ đến đường thẳng là nhỏ nhất là $t = -\dfrac{P \cdot A}{A \cdot A}$.
+
+## Câu 15
+
+![alt text](image-1.png)
+
+- Diện tích hình hình $OACB$ là: $S= OB.AP$
+
+- Trong đó: cạnh đáy $OB = ||B||$ và chiều cao $AP^2 = ||A||^2 - ||P||^2$ (Pytago)
+
+- Thay $P = \dfrac{A \cdot B}{B }B$, ta có: $||P||^2 = \dfrac{(A \cdot B)^2}{||B||^2}$, suy ra đường cao: $AP^2 = ||A||^2 - \dfrac{(A \cdot B)^2}{||B||^2}$
+
+- Bình phương diện tích hình $OACB$ là:
+$S^2 = OB^2 . AP^2 = ||B||^2 (||A||^2 - \dfrac{(A \cdot B)^2}{||B||^2}) = ||A||^2||B||^2 - (A \cdot B)^2$ (Nhân $||B||^2$ vào trong ngoặc)
+
+## Câu 16
+
+- Cho $f(x,y) = y - x^2$
+
+### Vẽ các đường cong mức của hàm số $f(x,y)$ với các giá trị mức $c = -1, 0, 1$.
+
+- Ta có: $f(x,y) = c \Longrightarrow y - x^2 = c \Longrightarrow y = x^2 + c$
+
+- Với $c = -1$: $y = x^2 - 1$ 
+
+- Với $c = 0$: $y = x^2$
+
+- Với $c = 1$: $y = x^2 + 1$
+
+### Mô tả dạng hình học
+
+![alt text](image-2.png)
+
+- Các đường đều là parabol, có cùng trục đối xứng $x=0$, cùng độ cong. Khi $c$ tăng thì parabol dịch chuyển lên trên theo trục tung và ngược lại.
+
+### Giao tuyến với mặt phẳng $z = 2$
+
+- Ta có: $f(x,y) = z \Longrightarrow y - x^2 = 2 \Longrightarrow y = x^2 + 2$
+
+- Đây là 1 parabol nằm trong mặt phẳng $z=2$ (cũng chính là đường định mức với $c=2$).
