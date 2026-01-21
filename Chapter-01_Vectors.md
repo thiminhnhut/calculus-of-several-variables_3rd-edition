@@ -100,7 +100,7 @@ Cho 2 điểm $A(x_1, y_1, z_1)$ và $B(x_2, y_2, z_2)$:
 
 - Tích vô hướng liên quan đến góc giữa hai vectơ: $A \cdot B = ||A|| \cdot ||B|| \cdot \cos{\theta}$.
 
-- Góc giữa hai vectơ: $\cos{\theta} = \dfrac{A \cdot B}{||A|| \cdot ||B||}$. Trong đó: $P$ là điểm thuộc đường thẳng và $A$ là vector chỉ phương của đường thẳng.
+- Góc giữa hai vectơ: $\cos{\theta} = \dfrac{A \cdot B}{||A|| \cdot ||B||}$. 
 
 - $|A \cdot B| \leq ||A|| \cdot ||B||$
 
@@ -108,7 +108,7 @@ Cho 2 điểm $A(x_1, y_1, z_1)$ và $B(x_2, y_2, z_2)$:
 
 ## Phương trình tham số của đường thẳng
 
-- Đường thẳng $X$ đi qua $P$ và có vector định hướng $A$ là: $X = P + tA$ với $t \in R$.
+- Đường thẳng $X$ đi qua $P$ và có vector định hướng $A$ là: $X = P + tA$ với $t \in R$. Trong đó: $P$ là điểm thuộc đường thẳng và $A$ là vector chỉ phương của đường thẳng.
 
 - Đoạn thẳng nối hai điểm $P$ và $Q$ là: $X = P + t(Q - P)$ với $t \in [0, 1]$.
 
