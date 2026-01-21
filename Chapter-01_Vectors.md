@@ -96,9 +96,11 @@ Cho 2 điểm $A(x_1, y_1, z_1)$ và $B(x_2, y_2, z_2)$:
 
 - Tìm hình chiểu của $A$ lên $B$ với hệ số $c = \dfrac{A \cdot B}{B \cdot B}$, khi đó hình chiếu là $P = cB$.
 
+![alt text](image.png)
+
 - Tích vô hướng liên quan đến góc giữa hai vectơ: $A \cdot B = ||A|| \cdot ||B|| \cdot \cos{\theta}$.
 
-- Góc giữa hai vectơ: $\cos{\theta} = \dfrac{A \cdot B}{||A|| \cdot ||B||}$.
+- Góc giữa hai vectơ: $\cos{\theta} = \dfrac{A \cdot B}{||A|| \cdot ||B||}$. Trong đó: $P$ là điểm thuộc đường thẳng và $A$ là vector chỉ phương của đường thẳng.
 
 - $|A \cdot B| \leq ||A|| \cdot ||B||$
 
@@ -111,6 +113,8 @@ Cho 2 điểm $A(x_1, y_1, z_1)$ và $B(x_2, y_2, z_2)$:
 - Đoạn thẳng nối hai điểm $P$ và $Q$ là: $X = P + t(Q - P)$ với $t \in [0, 1]$.
 
 ## Mặt phẳng
+
+- Vector pháp tuyến của mặt phẳng là vector vuông góc với mặt phẳng đó.
 
 - Mặt phẳng đi qua điểm $P$ và có vector pháp tuyến $N$ là: $N \cdot (X - P) = 0$ hay $N \cdot X = N \cdot P$.
 
@@ -125,7 +129,7 @@ Cho 2 điểm $A(x_1, y_1, z_1)$ và $B(x_2, y_2, z_2)$:
 
 - Tính chất của tích có hướng:
 
-   - $A \times B = - (B \times A)$
+   - $A \times B = - (B \times A)$ (Nhân vô hướng không có tính chất giao hoán)
 
    - $A \times (B + C) = A \times B + A \times C$
 
