@@ -28,7 +28,7 @@
 
 - Các tính chất của gradient của hàm số chỉ phụ thuộc vào $r$:
 
-  - Luôn hướng theo theo bán kính
+  - Luôn hướng theo bán kính
 
   - Luôn vuông góc với các mặt đẳng mức
 
